@@ -1,2 +1,2 @@
 # RDS
-基于redis的rds系统服务
+基于mysql作为底层数据库选型的rds系统服务
